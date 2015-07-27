@@ -61,7 +61,3 @@ https://test_repo.readthedocs.org/
 
 Development
 ===========
-
-To run the all tests run::
-
-    tox
